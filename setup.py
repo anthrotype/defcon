@@ -14,7 +14,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name="defcon",
-    version="0.3.3.dev0",
+    version="0.3.5.dev0",
     description="A set of flexible objects for representing UFO data.",
     long_description=long_description,
     author="Tal Leming",
@@ -30,7 +30,7 @@ setup(
     ],
     install_requires=[
         "fonttools>=3.1.2",
-        "ufoLib>=2.0.0",
+        "ufoLib>=2.1.0",
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
