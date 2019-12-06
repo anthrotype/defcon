@@ -1,3 +1,3 @@
-fonttools==4.2.0
+fonttools==4.2.1
 ufoLib==3.0.0
 # git+https://github.com/typesupply/compositor
